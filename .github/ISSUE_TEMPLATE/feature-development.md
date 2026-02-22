@@ -1,7 +1,7 @@
 ---
 name: Feature Development
 about: Track a feature development task.
-title: "[Feature]: "
+title: "[Dev]: "
 labels: ''
 assignees: ''
 
