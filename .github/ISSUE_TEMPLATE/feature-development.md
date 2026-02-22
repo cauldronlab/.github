@@ -15,6 +15,7 @@ assignees: ''
 
 ## Tasks
 - [ ] Implementation
+- [ ] Documentation
 - [ ] Tests
 - [ ] Code review
 - [ ] QA
